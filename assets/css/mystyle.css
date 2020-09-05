@@ -1,0 +1,86 @@
+form{
+    border: solid 2px   #7eb68a  ;
+    background-color: #eaf7e2  ;
+    padding: 0.5cm;
+}
+
+input[type=text]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px black;
+    background-color:    #f6c4a9  ;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+input[type=number]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px black;
+    background-color:    #f6c4a9  ;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+input[type=email]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px black;
+    background-color:    #f6c4a9  ;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+#validationCustom05{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px black;
+    background-color:    #f6c4a9  ;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+label{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+th{
+    border: solid 1px black;
+    font-size: 15px;
+    background-color:  #a8dcce ;
+}
+td{
+    border-left: none;
+    border-right: none;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+}
+
+td:hover{
+    border-left: none;
+    border-right: none;
+    border-top: solid 1px  #a6d2a8 ;
+    border-bottom: solid 1px  #a6d2a8 ;
+    background-color: #f6c4a9;
+}
+
+h5{
+    text-align: center;
+    color: brown;
+    font-weight: 800;
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+}
+
